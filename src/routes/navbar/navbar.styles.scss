@@ -7,11 +7,27 @@
         color: rgba(255, 255, 255, 0.736);
         padding: 20px;
         text-decoration: none;
-        font-size: 20px;
+        font-size: 25px;
         font-family: 'Tilt Warp', cursive;
 
         &:hover{
             color: rgb(91, 91, 108);
         }
+    }
+
+    
+}
+
+.title{
+    text-align: left;
+    padding-top: 1px;
+    line-height: 0px;
+    margin-top: 15px;
+
+    .title-name{
+        text-decoration: none;
+        font-size: 40px;
+        color: white;
+        font-family: 'Lobster', cursive;
     }
 }

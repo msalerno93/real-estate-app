@@ -6,7 +6,8 @@ import React from 'react'
 
 const HomeShowpage = () => {
   return (
-    <div>HomeShowpage</div>
+    <div>
+    </div>
   )
 }
 

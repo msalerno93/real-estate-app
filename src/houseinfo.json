@@ -1,0 +1,27 @@
+[
+  {
+    "address": "123 Johnson Ave",
+    "price": 150000,
+    "imageURL": ""
+  },
+  {
+    "address": "144 Jacob Road",
+    "price": 600000,
+    "imageURL": ""
+  },
+  {
+    "address": "144 Jacob Road",
+    "price": 600000,
+    "imageURL": ""
+  },
+  {
+    "address": "144 Jacob Road",
+    "price": 600000,
+    "imageURL": ""
+  },
+  {
+    "address": "144 Jacob Road",
+    "price": 600000,
+    "imageURL": ""
+  }
+]
