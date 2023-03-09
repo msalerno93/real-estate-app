@@ -1,0 +1,17 @@
+.nav-bar {
+    background-color: rgb(44, 44, 44);
+    padding: 20px;
+    text-align: right;
+
+    .nav-button{
+        color: rgba(255, 255, 255, 0.736);
+        padding: 20px;
+        text-decoration: none;
+        font-size: 20px;
+        font-family: 'Tilt Warp', cursive;
+
+        &:hover{
+            color: rgb(91, 91, 108);
+        }
+    }
+}
