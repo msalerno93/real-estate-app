@@ -1,0 +1,3 @@
+//SHOWS SLIDESHOW OF PICS AND HAS INFO ABOUT COMPANY
+//HAS BUTTON TO LISTINGS
+//may not have component to render
