@@ -4,10 +4,13 @@
 
 
 import React from 'react'
+import RealtorCard from '../../components/realtor-card/realtor.component'
 
 const RealtorsPage = () => {
   return (
-    <div>RealtorsPage</div>
+    <div>
+      <RealtorCard />
+    </div>
   )
 }
 

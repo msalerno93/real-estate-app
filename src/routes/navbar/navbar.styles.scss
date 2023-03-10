@@ -1,10 +1,10 @@
 .nav-bar {
-    background-color: rgb(44, 44, 44);
+    background-image: linear-gradient(to bottom, rgb(32, 31, 31), rgb(170, 40, 40));
     padding: 20px;
     text-align: right;
 
     .nav-button{
-        color: rgba(255, 255, 255, 0.736);
+        color: white;
         padding: 20px;
         text-decoration: none;
         font-size: 25px;
@@ -29,5 +29,8 @@
         font-size: 40px;
         color: white;
         font-family: 'Lobster', cursive;
+        &:hover{
+            color: rgb(91, 91, 108);
+        }
     }
 }

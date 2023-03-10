@@ -15,12 +15,13 @@ const ListingsCard = () => {
         return (
           <div key={info.id} className="information-container">
             <p className="address">{info.address}</p>
+            <p className="bedrooms">Bedrooms: {info.bedroom} Bathrooms: {info.bathroom}</p>
             <p className="price">${info.price}</p>
             <div className="box-shadow">
             <Link className="button" to={`/showings/${info.id}`}>
             <img className="image" src={info.imageURL} alt='home'/>
+            <Link className="button" to={`/showings/${info.id}`}>Click For Full Listing</Link>
             </Link>
-            <Link className="button" to={`/showings/${info.id}`}>Click to Learn More!</Link>
             </div>
           </div>
         );

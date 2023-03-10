@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bart Simpson",
+    "years": 10,
+    "bio": "My name is Bart Simpson, kawabunga dude! I've been in real estate about a decade. I am always trying to make sure the buyers/sellers have the best experience possible!"
+  },
+  {
+    "name": "Barry Allen",
+    "years": 5,
+    "bio": "My name is Barry Allen, you may know me as the Flash(since I tell everyone my identity apparentyl). I am here to help you sell your house or land you a dream home!"
+  },
+  {
+    "name": "Rick Sanchez",
+    "years": 12,
+    "bio": "(Burp noises)I'm Rick, I'm the best Rick there is and ever was. I'll help you get that house, maybe, I'm not sure, if it fits(burps) into my schedule. Have you seen my grandson Morty?"
+  },
+  {
+    "name": "Groot",
+    "years": 2,
+    "bio": "I am groot"
+  }
+]

@@ -2,6 +2,8 @@
     text-align: center;
     justify-content: center;
     margin-bottom: 50px;
+    padding-left: 20px;
+    padding-top: 15px;
     .sub-container{
         display: grid;
         grid-template-columns: 550px 550px 550px;
@@ -24,8 +26,16 @@
                 line-height: 0;
 
             }
+
+            .bedrooms{
+                font-size: 18px;
+                font-family: 'Tilt Warp', cursive;
+                line-height: 0;
+            }
             .box-shadow{
                 padding-bottom: 15px;
+                background-color: rgb(187, 181, 181);
+                line-height: 0;
                 &:hover{
                     box-shadow: 2px 2px 5px 5px rgb(62, 60, 60);
                     cursor: pointer;
@@ -34,12 +44,16 @@
                     width: 500px;
                     height: 500px;
                     padding-bottom: 25px;
+                    line-height: 0;
                 }
                 .button{
                     text-decoration: none;
                     color: black;
                     font-weight: bold;
                     font-size: 20px;
+                    line-height: 0;
+                    font-family: 'Tilt Warp', cursive;
+
                 }
             }
         }
