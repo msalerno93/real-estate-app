@@ -1,29 +1,34 @@
 [
   {
+    "id": 1,
     "address": "123 Johnson Ave",
     "city": "Jacksonville FL, 19093",
     "price": 150000,
     "imageURL": "https://photos.zillowstatic.com/fp/cc50b69bdd8d87a967a48bc700c4b29c-cc_ft_1536.webp"
   },
   {
+    "id": 2,
     "address": "4456 Pine Road",
     "city": "Miami FL, 11343",
     "price": 250000,
     "imageURL": "https://photos.zillowstatic.com/fp/8336ab26e62c4660a9690f013919f029-cc_ft_1536.webp"
   },
   {
+    "id": 3,
     "address": "320 Evergreen Drive",
     "city": "Jacksonville FL, 19093",
     "price": 400000,
     "imageURL": "https://photos.zillowstatic.com/fp/38bab0e2d4ea4023e8529811d4e27b1f-cc_ft_1536.webp"
   },
   {
+    "id": 4,
     "address": "32 Syracuse Road",
     "city": "New York NY, 11745",
     "price": 500000,
     "imageURL": "https://photos.zillowstatic.com/fp/f66bd8b1bbdc2aa82674b6afa14eee75-cc_ft_1536.webp"
   },
   {
+    "id": 5,
     "address": "221 West Seneca Street",
     "city": "Buffalo NY, 14220",
     "price": 675000,

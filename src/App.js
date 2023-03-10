@@ -17,7 +17,7 @@ function App() {
           <Route path="/listings" element={<ListingsPage />} />
           <Route path="/realtors" element={<RealtorsPage />} />
           <Route path="/contactus" element={<ContactUs />} />
-          <Route path="/showings" element={<HomeShowpage />}/>
+          <Route path='/showings/:houseId' element={<HomeShowpage />}/>
         </Routes>
         <Footer />
     </div>
