@@ -1,0 +1,21 @@
+.footer-container{
+    background-color: rgb(44, 44, 44);
+    text-align: center;
+    padding: 40px;
+
+    .footer-items{
+        color: rgba(255, 255, 255, 0.736);
+        text-decoration: none;
+        font-size: 18px;
+        font-family: 'Tilt Warp', cursive;
+        padding: 20px;
+        display: inline;
+
+        .portfolio{
+            color: rgba(255, 255, 255, 0.736);
+            text-decoration: none;
+            font-size: 18px;
+            font-family: 'Tilt Warp', cursive;            
+        }
+    }
+}

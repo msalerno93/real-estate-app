@@ -1,0 +1,26 @@
+.hero-slider-container{
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+
+    .title{
+        text-align: center;
+        font-family: 'Lobster', cursive !important;
+        font-size: 80px !important;
+        color: rgba(255, 255, 255, 0.736);
+        margin-top: 300px;
+        padding-bottom: 2px;
+        line-height: 0px;
+    }
+
+    .address{
+        text-align: center;
+        color: rgba(255, 255, 255, 0.736);
+        font-size: 45px;
+        font-weight: bold;
+        line-height: 0px;
+    }
+}
