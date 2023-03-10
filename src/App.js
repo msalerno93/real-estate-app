@@ -5,6 +5,7 @@ import Footer from './routes/footer/footer.component';
 import ListingsPage from './routes/listings-page/listings.component';
 import Navbar from './routes/navbar/navbar.component';
 import RealtorsPage from './routes/realtors-page/realtors.component';
+import HomeShowpage from './routes/home-showpage/home-showpage.component';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
           <Route path="/listings" element={<ListingsPage />} />
           <Route path="/realtors" element={<RealtorsPage />} />
           <Route path="/contactus" element={<ContactUs />} />
+          <Route path="/showings" element={<HomeShowpage />}/>
         </Routes>
         <Footer />
     </div>

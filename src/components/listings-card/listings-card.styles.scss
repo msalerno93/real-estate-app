@@ -1,0 +1,45 @@
+.listings-container{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    .sub-container{
+        display: grid;
+        grid-template-columns: 550px 550px 550px;
+        gap: 50px;
+        .information-container{
+            justify-content: left;
+            padding-left: 25px;
+            padding-right: 25px;
+            text-align: center;
+
+            .address{
+                font-size: 30px;
+                font-family: 'Tilt Warp', cursive;
+                line-height: 10px;
+            }
+            .price{
+                font-size: 25px;
+                font-family: 'Tilt Warp', cursive;
+                line-height: 0;
+
+            }
+            .image{
+                width: 500px;
+                height: 500px;
+                padding-bottom: 25px;
+                &:hover {
+                    cursor: pointer;
+                  }
+            }
+            .button{
+                text-decoration: none;
+                color: black;
+                font-weight: bold;
+                font-size: 20px;
+                &:hover {
+                    cursor: default;
+                  }
+            }
+        }
+    }
+}
