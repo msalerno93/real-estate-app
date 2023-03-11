@@ -2,21 +2,25 @@
   {
     "name": "Bart Simpson",
     "years": 10,
+    "imageURL": "https://cloudfront-us-east-1.images.arcpublishing.com/coindesk/CPBTOUCWKBA4NCNBBRWCRL4HNA.jpg",
     "bio": "My name is Bart Simpson, kawabunga dude! I've been in real estate about a decade. I am always trying to make sure the buyers/sellers have the best experience possible!"
   },
   {
     "name": "Barry Allen",
     "years": 5,
+    "imageURL": "https://i.pinimg.com/736x/95/0f/3f/950f3f1254c97bd2c2196d263313e946.jpg",
     "bio": "My name is Barry Allen, you may know me as the Flash(since I tell everyone my identity apparentyl). I am here to help you sell your house or land you a dream home!"
   },
   {
     "name": "Rick Sanchez",
     "years": 12,
+    "imageURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a701073a-7ed1-4ad6-87b6-c256de948abb/df21krg-b8af3b23-3af2-4965-8dc9-fd273f400c4d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3MDEwNzNhLTdlZDEtNGFkNi04N2I2LWMyNTZkZTk0OGFiYlwvZGYyMWtyZy1iOGFmM2IyMy0zYWYyLTQ5NjUtOGRjOS1mZDI3M2Y0MDBjNGQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vpgCAUaw8g2OOyFnP__u_dBPTzXWSzM2HyPDZH6aaOw",
     "bio": "(Burp noises)I'm Rick, I'm the best Rick there is and ever was. I'll help you get that house, maybe, I'm not sure, if it fits(burps) into my schedule. Have you seen my grandson Morty?"
   },
   {
     "name": "Groot",
     "years": 2,
+    "imageURL": "https://d23.com/app/uploads/2022/08/1180w-600h_081022_Groot-Languages_00.jpg",
     "bio": "I am groot"
   }
 ]

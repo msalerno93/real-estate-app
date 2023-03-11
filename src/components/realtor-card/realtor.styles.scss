@@ -1,0 +1,58 @@
+
+.realtor{
+    display: grid;
+    grid-template-columns: 700px 700px;
+    gap: 25px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    padding-left: 20px;
+    padding-top: 15px;
+
+    .realtor-info-container{
+        text-align: center;
+        .items-container{
+            text-align: center;
+            &:hover{
+                box-shadow: 2px 2px 5px 5px rgb(169, 166, 166);
+                cursor: pointer;
+            }
+            .name{
+                font-size: 35px;
+                font-family: 'Lobster', cursive;
+                line-height: 0;
+                padding-bottom: 5px;
+            }
+            .years{
+                font-size: 20px;
+                font-family: 'Tilt Warp', cursive;
+                justify-content: right;
+                line-height: 0;
+
+            }
+
+            .bio{
+                font-size: 18px;
+                font-family: 'Tilt Warp', cursive;
+                padding-bottom: 35px;
+                line-height: 1;
+            }
+            .image{
+                width: 300px;
+                height: 300px;
+                padding-bottom: 5px;
+                line-height: 0;
+            }
+            .box-shadow{
+                padding-bottom: 15px;
+                background-color: rgb(187, 181, 181);
+                line-height: 0;
+                &:hover{
+                    box-shadow: 2px 2px 5px 5px rgb(62, 60, 60);
+                    cursor: pointer;
+                }
+
+            }
+        }
+    }
+}

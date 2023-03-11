@@ -2,14 +2,29 @@
 
 //to be displayed on realtors route(page)
 
-import REALTORS from '../../realtors.json'
+import REALTORS from "../../realtors.json";
+
+import "./realtor.styles.scss";
 
 const RealtorCard = () => {
   return (
-    <div>
-        {REALTORS.map((e) => e.name)}
+    <div className="realtor">
+      {REALTORS.map((e) => {
+        return (
+          <div className="title">
+            <div className="realtor-info-container">
+              <div className="items-container">
+                <img className="image" src={e.imageURL} alt="home" />
+                <p className="name">{e.name}</p>
+                <p className="years">Years in Real Estate: {e.years} Years</p>
+                <p className="bio">{e.bio}</p>
+              </div>
+            </div>
+          </div>
+        );
+      })}
     </div>
-  )
-}
+  );
+};
 
-export default RealtorCard
+export default RealtorCard;
