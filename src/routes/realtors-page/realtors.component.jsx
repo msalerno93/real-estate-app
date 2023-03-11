@@ -3,12 +3,13 @@
 //realtor card to be displayed here//
 
 
-import React from 'react'
 import RealtorCard from '../../components/realtor-card/realtor.component'
+import './realtors.styles.scss'
 
 const RealtorsPage = () => {
   return (
     <div>
+      <p className='title-realtor'>Checkout Our Realtors</p>
       <RealtorCard />
     </div>
   )
