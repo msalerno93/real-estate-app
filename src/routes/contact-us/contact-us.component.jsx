@@ -8,6 +8,7 @@ const ContactUs = () => {
   return (
     <div>
       <div className="title-contact">Contact Us!</div>
+      <p className='contact-header'>Fill out the information below and we will get back to you within 48 hours.</p>
       <ContactUsCard />
     </div>
   )

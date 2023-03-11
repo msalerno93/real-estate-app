@@ -15,7 +15,6 @@
             text-align: center;
             &:hover{
                 box-shadow: 2px 2px 5px 5px rgb(169, 166, 166);
-                cursor: pointer;
             }
             .name{
                 font-size: 35px;
@@ -49,7 +48,6 @@
                 line-height: 0;
                 &:hover{
                     box-shadow: 2px 2px 5px 5px rgb(62, 60, 60);
-                    cursor: pointer;
                 }
 
             }

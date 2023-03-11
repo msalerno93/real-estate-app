@@ -26,5 +26,19 @@
     "years": 2,
     "imageURL": "https://d23.com/app/uploads/2022/08/1180w-600h_081022_Groot-Languages_00.jpg",
     "bio": "I am groot I am groot I am groot I am groot I am groot I am groot I am groot I am groot I am groot I am groot I am groot"
+  },
+  {
+    "id": 5,
+    "name": "Pikachu",
+    "years": 20,
+    "imageURL": "https://i.ytimg.com/vi/1roy4o4tqQM/maxresdefault.jpg",
+    "bio": "Pika Pika Pika Pee. Pikachu Pika Pee Peeeeekaaaachuuuuu"
+  },
+  {
+    "id": 6,
+    "name": "Morty Smith",
+    "years": 3,
+    "imageURL": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/66303/4469088-tumblr_inline_n0aleph3fl1r8rr6o.jpg",
+    "bio": "Oh jeeeeez, Hey everyone I I I I'm Morty and boy do I want to help you find a house. We got big ones, small ones, we got interdimensional ones. Come on down to Realtor Central and lets get the best house for youuuuuuuuuu."
   }
 ]

@@ -4,7 +4,7 @@
     padding: 40px;
 
     .footer-items{
-        color: rgba(255, 255, 255, 0.736);
+        color: white;
         text-decoration: none;
         font-size: 18px;
         font-family: 'Tilt Warp', cursive;
@@ -12,10 +12,14 @@
         display: inline;
 
         .portfolio{
-            color: rgba(255, 255, 255, 0.736);
+            color: white;
             text-decoration: none;
             font-size: 18px;
-            font-family: 'Tilt Warp', cursive;            
+            font-family: 'Tilt Warp', cursive;  
+            
+            &:hover{
+                color: rgb(91, 91, 108);
+            }
         }
     }
 }

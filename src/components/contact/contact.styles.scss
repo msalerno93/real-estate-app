@@ -3,10 +3,19 @@
     margin: 0 auto;
     text-align: center;
     padding-bottom: 75px;
+
+    .contact-banner-message{
+        font-family: 'Tilt Warp', cursive;
+        color: green;
+        font-size: 20px;
+    }
+
     .label{
         text-align: left;
         display: block;
-        font-size: 30px;
+        font-size: 25px;
+        font-family: 'Tilt Warp', cursive;
+
         .text-input{
             width: 100%;
             padding: 10px 10px;
@@ -15,6 +24,8 @@
             box-sizing: border-box;
             display: block;
             font-size: 20px;
+            font-family: 'Tilt Warp', cursive;
+
         }
     }
     .submit-button{
