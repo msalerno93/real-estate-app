@@ -1,0 +1,33 @@
+.contact-us-form-container{
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 75px;
+    .label{
+        text-align: left;
+        display: block;
+        font-size: 30px;
+        .text-input{
+            width: 100%;
+            padding: 10px 10px;
+            margin: 10px 0;
+            border: 1px solid rgb(10, 10, 10);
+            box-sizing: border-box;
+            display: block;
+            font-size: 20px;
+        }
+    }
+    .submit-button{
+        background-image: linear-gradient(to bottom, rgb(32, 31, 31), rgb(170, 40, 40));        font-size: 25px;
+        font-family: 'Tilt Warp', cursive;
+        color: white;
+        border: 0;
+        padding: 15px;
+        border-radius: 8px;
+        cursor: pointer;
+
+        &:hover{
+            color: rgb(91, 91, 108);
+        }
+    }
+}
