@@ -1,0 +1,73 @@
+.showpage-container {
+  text-align: center;
+  justify-content: center;
+  padding-top: 25px;
+  padding-bottom: 30px;
+
+  .showpage-subcontainer {
+    text-align: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: 800px;
+
+    .address{
+        font-size: 50px;
+        line-height: 0;
+        margin-bottom: 10px;
+        font-family: 'Tilt Warp', cursive;
+    }
+
+    .city{
+        font-size: 40px;
+        line-height: 0;
+        margin-bottom: 15px;
+        font-family: 'Tilt Warp', cursive;
+    }
+
+    .price{
+        font-size: 40px;
+        line-height: 0;
+        font-family: 'Tilt Warp', cursive;
+    }
+
+    .desc{
+        font-family: 'Tilt Warp', cursive;
+        font-size: 20px;
+    }
+
+    .image {
+      width: 800px;
+      height: 800px;
+      justify-content: center;
+      text-align: center;
+      padding-bottom: 25px;
+    }
+    .information {
+      justify-content: left;
+      text-align: left;
+      padding-left: 60px;
+      padding-right: 25px;
+      text-align: center;
+      display: grid;
+      grid-template-columns: 400px 400px;
+
+      .info {
+        font-size: 25px;
+        font-family: "Tilt Warp", cursive;
+        line-height: 10px;
+        justify-content: left;
+        text-align: left;
+
+      }
+    }
+  }
+}
+
+// .box-shadow{
+//     padding-bottom: 15px;
+//     background-color: rgb(187, 181, 181);
+//     line-height: 0;
+//     &:hover{
+//         box-shadow: 2px 2px 5px 5px rgb(62, 60, 60);
+//         cursor: pointer;
+//     }

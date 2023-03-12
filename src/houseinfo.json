@@ -1,3 +1,4 @@
+
 [
   {
     "id": 1,
@@ -6,7 +7,16 @@
     "bathroom": 3,
     "bedroom": 4,
     "price": 150000,
-    "imageURL": "https://photos.zillowstatic.com/fp/cc50b69bdd8d87a967a48bc700c4b29c-cc_ft_1536.webp"
+    "size": 2500,
+    "style": "Single-Family Home",
+    "basement": "No",
+    "lot": 4000,
+    "desc": "Exquisite front to back Split situated on quiet mid-block, great curb appeal w/ brick & cedar shingle in front, brand new vinyl siding on sides & rear. Bright, open & airy, spacious LR w/ refinished hardwood floors & vaulted ceiling, updated EIK w/ glass tile backsplash, brand new flooring, brand new stainless steel refrigerator & dishwasher, gas cooking, hi hats, brand new built-in A/C, & large pantry w/ built-ins. Upper level 3 BRS, all w/ refinished hardwood floors & brand new built-in A/C's & ceiling fans, all with double closets. Full bath w/ quartz sink top, pull-down attic w/ hideaway stairs. 1st floor large Family Rm w/ built-ins, new flooring, hi hats & brand new built-in A/C, extended Den or 4th BR w/ WIC, Laundry/Utility Rm w/ extra large W/D, w/ built-in cabinets. 1st floor remodeled Fbth. Newly painted interior, all windows replaced, verticals, gas heat, Peerless boiler, separate HW heater, roof 1 year old stripped to sheathing. Privately fenced backyard, cement patio. ",
+    "imageURL1": "https://photos.zillowstatic.com/fp/f87396b31d147cccfe7ec8399fd3cbce-uncropped_scaled_within_1536_1152.webp",
+    "imageURL2": "https://photos.zillowstatic.com/fp/dc4f5ec5a6011eb263563f9bfe0710d4-uncropped_scaled_within_1536_1152.webp",
+    "imageURL3": "https://photos.zillowstatic.com/fp/1d79a26d46d8faaf6e714deb6c050b1c-uncropped_scaled_within_1536_1152.webp",
+    "imageURL4": "https://photos.zillowstatic.com/fp/656877ccdba86bc726ad656a6c6a0b54-uncropped_scaled_within_1536_1152.webp",
+    "imageURL5": "https://photos.zillowstatic.com/fp/f0b16abd4e80a3ceac922646ca7eb00c-uncropped_scaled_within_1536_1152.webp"
   },
   {
     "id": 2,
@@ -15,16 +25,34 @@
     "bathroom": 2,
     "bedroom": 4,
     "price": 250000,
-    "imageURL": "https://photos.zillowstatic.com/fp/8336ab26e62c4660a9690f013919f029-cc_ft_1536.webp"
+    "size": 2000,
+    "style": "Condo",
+    "basement": "No",
+    "lot": 3500,
+    "desc": "This beautiful 4 bedroom 2 bath Splanch home is located on a quiet court and has been well taken care. As you walk in you are greeted by an open floor plan living room and kitchen featuring hardwood floors and vaulted ceilings. The eat-in kitchen features SS appliances installed 2 years ago, granite countertops, plenty of cabinetry, high hats and skylights adding extra lighting to the space. Cooking and eating meals will be all the more enjoyable as you will be drenched in sunlight with gleaming lights coming from several directions creating a vibrant and tranquil experience. On the upstairs level you will find a nice sized master bedroom with plenty of closet space, 2 additional bedrooms with closets and a full sized bathroom fitted with an air jet tub great for those days you just need to sit back and relax. On the lower level you will find a large family room with hypoallergenic carpet flooring, a 1/2 bath, a door leading to the garage and an outside entrance door. The ample backyard is well taken care of and is a great place for hosting and entertaining. Some items that need mentioning are the 6 zone irrigation system installed throughout the front and backyard, pavers, all replaced fencing and a large shed which will be a gift to the new owner. Central air, dual zone heat, Pella windows, hardwood floors throughout the home, leased solar panels, garage, driveway parking for 4+ cars, close to major stores, restaurants, highways.",
+    "imageURL1": "https://photos.zillowstatic.com/fp/f66bd8b1bbdc2aa82674b6afa14eee75-uncropped_scaled_within_1536_1152.webp",
+    "imageURL2": "https://photos.zillowstatic.com/fp/877b90ec445253d540f6d2c610ab28a4-uncropped_scaled_within_1536_1152.webp",
+    "imageURL3": "https://photos.zillowstatic.com/fp/720dae035736689c8b3ac6fa1b641062-uncropped_scaled_within_1536_1152.webp",
+    "imageURL4": "https://photos.zillowstatic.com/fp/3792c1ee651e5b0e16d76ad07722c0a5-uncropped_scaled_within_1536_1152.webp",
+    "imageURL5": "https://photos.zillowstatic.com/fp/c4280a19f621e3ff5c949de3ec2c740c-uncropped_scaled_within_1536_1152.webp"
   },
   {
     "id": 3,
     "address": "320 Evergreen Drive",
     "city": "Jacksonville FL, 19093",
-    "bathroom": 3,
+    "bathroom": 2,
     "bedroom": 6,
     "price": 400000,
-    "imageURL": "https://photos.zillowstatic.com/fp/38bab0e2d4ea4023e8529811d4e27b1f-cc_ft_1536.webp"
+    "size": 3000,
+    "lot": 5000,
+    "basement": "Yes, Unfinished",
+    "style": "Single-Family Home",
+    "desc": "Beautiful 6 Bedroom, 2 Bath Split with Back Dormer features Living Room w/ Brick Fireplace, Updated Kitchen, Updated Bathrooms,  Finished Basement, Possible Mother/Daughter w/proper permits, Detached 2 Car Garage, Hardwood Floors just redone, Freshly Painted, Resort Backyard w/ Inground Pool with Brand New LIner & New Pump, Brick pavers throughout yard,  Mid-block location.  Gas is in the street in front of house.",
+    "imageURL1": "https://photos.zillowstatic.com/fp/baf02071c7e20cb298a9e3ced033de63-uncropped_scaled_within_1536_1152.webp",
+    "imageURL2": "https://photos.zillowstatic.com/fp/fc4421f5ce96cf856497ac02ceb3ea0f-uncropped_scaled_within_1536_1152.webp",
+    "imageURL3": "https://photos.zillowstatic.com/fp/4c521d255204e03683433150f368bdc6-uncropped_scaled_within_1536_1152.webp",
+    "imageURL4": "https://photos.zillowstatic.com/fp/1028664b095357ba9e3ebb2a948b4eee-uncropped_scaled_within_1536_1152.webp",
+    "imageURL5": "https://photos.zillowstatic.com/fp/8052aaee460d9d52c8e10a311ae3c87b-uncropped_scaled_within_1536_1152.webp"
   },
   {
     "id": 4,
@@ -33,7 +61,16 @@
     "bathroom": 3,
     "bedroom": 5,
     "price": 500000,
-    "imageURL": "https://photos.zillowstatic.com/fp/f66bd8b1bbdc2aa82674b6afa14eee75-cc_ft_1536.webp"
+    "size": 3500,
+    "lot": 5500,
+    "style": "Multi-Family Home",
+    "basement": "Yes, Finished",
+    "desc": "Magnificent, large Colonial situated on quiet mid-block, features breathtaking curb appeal w/ brick & newer vinyl sided exterior, front porch w/ natural stone, double blacktop driveway w/ cobblestone entry, natural stone walkway & planters. Dramatic 2-story entry foyer, open concept, bright, open & airy, LR w/ prefinished teak hardwood floors, FDR w/ prefinished teak hardwood floors & vaulted ceiling, newer custom EIK w/ maple cabinets, center island, Silestone counters, limestone backsplash, upgraded appliances, large pantry & pendant lights. Main level large Family Rm/Great Rm w/ bamboo hardwood floors, electric fpl w/ cultured stone, & crown moldings, office or 5th BR w/ prefinished hardwood floors, new Fbth w/ porcelain tile. 2nd floor large MBR suite w/ prefinished hardwood floors, tray ceiling, WIC w/ built-ins, & updated large Fbth w/ quartz sink top w/ dual entry to MBR. Bsmt features finished playroom, Fbth, laundry room, large woodshop. All windows have been replaced, some solid wood interior raised panel doors, 4 built-in A/C's, roof approx. 4 years old stripped to sheathing, 150-amp electric. Solar panels owned, only 4 years old, very low electric bills. Oversized, privately fenced backyard, 6ft PVC fencing, great for entertaining, outdoor kitchen w/ bar, refrigerator, built-in BBQ & lighting, gazebo, large shed. Close to Bethpage State Park & Golf Course. ",
+    "imageURL1": "https://photos.zillowstatic.com/fp/3cd3b4731d9382628b2f21d9efbe6126-uncropped_scaled_within_1536_1152.webp",
+    "imageURL2": "https://photos.zillowstatic.com/fp/a70eaff07d873420b7e58762cb530249-uncropped_scaled_within_1536_1152.webp",
+    "imageURL3": "https://photos.zillowstatic.com/fp/e99519c8950d69858310fd5d00387c7b-uncropped_scaled_within_1536_1152.webp",
+    "imageURL4": "https://photos.zillowstatic.com/fp/64189338bceaf67d3ce093178bc3f95a-uncropped_scaled_within_1536_1152.webp",
+    "imageURL5": "https://photos.zillowstatic.com/fp/06d9471f9d6768fe7c7c4a61157a6f8a-uncropped_scaled_within_1536_1152.webp"
   },
   {
     "id": 5,
@@ -42,6 +79,33 @@
     "bathroom": 3,
     "bedroom": 7,
     "price": 675000,
-    "imageURL": "https://photos.zillowstatic.com/fp/78c25ee8f62ffda5316ec3ff0b63281a-cc_ft_1536.webp"
+    "size": 4500,
+    "lot": 7000,
+    "basement": "Yes, Finished",
+    "style": "Single-Family Home",
+    "desc": "Updated Single-Family Post Modern Home in Buffalo with 7 bedrooms and 3.5 baths, with Updated Kitchen with Stainless Steel Appliances with Quartz Counter Tops and White Kitchen Cabinets, Crown Molding , with High Hats , Wainscoting , Entire property is Vinyl Fenced for privacy. Great home to entertain and have get togethers.",
+    "imageURL1": "https://photos.zillowstatic.com/fp/219ccfa8af29da6a61062f2618495770-uncropped_scaled_within_1536_1152.webp",
+    "imageURL2": "https://photos.zillowstatic.com/fp/0c659f5dfea85e096bf3107a7000dd91-uncropped_scaled_within_1536_1152.webp",
+    "imageURL3": "https://photos.zillowstatic.com/fp/d98c7361a66882a5ada97722e1b421f1-uncropped_scaled_within_1536_1152.webp",
+    "imageURL4": "https://photos.zillowstatic.com/fp/217958b203db2a8d25a02122a456c637-uncropped_scaled_within_1536_1152.webp",
+    "imageURL5": "https://photos.zillowstatic.com/fp/21d0a40f165578f2e74104d54caa7d46-uncropped_scaled_within_1536_1152.webp"
+  },
+  {
+    "id": 6,
+    "address": "675 Jamestown Road",
+    "city": "Utica NY, 14220",
+    "bathroom": 2,
+    "bedroom": 7,
+    "price": 750000,
+    "size": 5500,
+    "lot": 8000,
+    "basement": "Yes, Finished",
+    "style": "Multi-Family Home",
+    "desc": "Welcome to 675 Jamestown Road in Utica NY, the home features 4 bedrooms and 4 baths. Bright sunny, Gourmet kitchen with professional grade appliances and granite counters, an array of sleek finishes, Gleaming hardwood floors throughout. Family room with gas fireplace. Master En suite with vaulted ceiling and walk in closets and full bath with private jacuzzi and separate shower. Updated windows with plenty of morning and afternoon light, Full finished basement with tiles. Enjoy the fully fenced, spacious backyard with pavered patio and shed perfect for kids & pets with plenty of room for a pool.  This house is well maintained and is a must see and is sure to go fast.  Come and take a look at this beauty...don't miss out!!!",
+    "imageURL1": "https://photos.zillowstatic.com/fp/38bab0e2d4ea4023e8529811d4e27b1f-uncropped_scaled_within_1536_1152.webp",
+    "imageURL2": "https://photos.zillowstatic.com/fp/5b3757e81a6e3a76a85e7d3a35661db3-uncropped_scaled_within_1536_1152.webp",
+    "imageURL3": "https://photos.zillowstatic.com/fp/12f8a31604d5468d99732be4259a4ead-uncropped_scaled_within_1536_1152.webp",
+    "imageURL4": "https://photos.zillowstatic.com/fp/b37352c7c08644688471f7888998cdab-uncropped_scaled_within_1536_1152.webp",
+    "imageURL5": "https://photos.zillowstatic.com/fp/7174f3df3cc79d70d1a36946c2a6cac1-uncropped_scaled_within_1536_1152.webp"
   }
 ]
