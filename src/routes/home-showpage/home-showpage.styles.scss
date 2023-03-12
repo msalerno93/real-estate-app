@@ -1,0 +1,23 @@
+.homeshowpage-container {
+  padding-top: 30px;
+  padding-left: 25px;
+
+  .back-button {
+    background-image: linear-gradient(
+      to bottom,
+      rgb(32, 31, 31),
+      rgb(170, 40, 40)
+    );
+    font-size: 18px;
+    font-family: "Tilt Warp", cursive;
+    color: white;
+    border: 0;
+    padding: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+
+    &:hover {
+      color: rgb(91, 91, 108);
+    }
+  }
+}
