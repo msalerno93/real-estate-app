@@ -12,14 +12,21 @@ import './homepage.styles.scss'
 
 const Homepage = () => {
 
-  // const [counter, setCounter] = useState(0)
-  // const loadOnRefresh = () => {
-  //   setCounter(counter => counter + 1)
-  // }
+  // const [counter, setCounter] = useState(0)  
 
   // useEffect(() => {
-  //    loadOnRefresh()
+  //   const storedCount = localStorage.getItem('counter')
+  //   if (storedCount) {
+  //     setCounter(parseInt(storedCount))
+  //   } else {
+  //     setCounter(1)
+  //   }
   // }, [])
+
+  // useEffect(() => {
+  //   localStorage.setItem('counter', counter.toString())
+  // }, [counter])
+  
   
 
   return (
